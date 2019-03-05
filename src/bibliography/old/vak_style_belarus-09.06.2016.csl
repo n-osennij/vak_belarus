@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0">
   <info>
     <title>VAK style (Belarus)</title>
@@ -11,16 +11,14 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>14-10-2016 17.00</updated>
+    <updated>09-06-2016</updated>
     <summary>
       Cтили оформления библиографии были взяты с https://github.com/romanraspopov/GOST-styles-for-Zotero и форума http://bio.bsu.by/freak/viewtopic.php?p=12356
       Внесено множество модификаций и изменений: что-то переделано, что-то добавлено, а что-то удалено.
       Большая просьба - любые пожелания по улучшению направлять  на e-mail n.osennij@gmail.com
       Стили для программы Zotero (http://www.zotero.org).
 
-      ИНСТРУКЦИЯ находится тут (*.pdf) - http://vak.of.by/files/bibliography/
-
-      Согласно требованим к оформлению ВАК Республики Беларусь - http://www.vak.org.by/bibliographicDescription
+      ИНСТРУКЦИЯ находится тут (*.pdf) - http://vak.of.by/files/bibliography/ 
 
     </summary>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
@@ -320,34 +318,17 @@
     <choose>
       <if variable="volume">
         <text variable="volume"/>
-		    <label variable="volume" form="short" prefix=" " suffix="" text-case="lowercase"/>
+		<label variable="volume" form="short" prefix=" " suffix="" text-case="lowercase"/>
       </if>
     </choose>
   </macro>
- 
+  
   <macro name="volume2"> 
     <choose>
       <if variable="volume">
         <label variable="volume" form="short" prefix="" suffix=". " text-case="capitalize-first"/>
-        <text variable="volume"/>
+		<text variable="volume"/>
       </if>
-    </choose>
-  </macro>
-
-  <macro name="volume3"> 
-    <choose>
-      <if variable="volume">
-        <group delimiter=", ">
-          <group>
-            <label variable="volume" form="short" prefix="" suffix=". " text-case="capitalize-first"/>
-            <text variable="volume"/>
-          </group>
-          <text variable="issue" prefix="№&#160;"/> <!-- Номер выпуска -->
-        </group>
-      </if>
-      <else>
-         <text variable="issue" prefix="№&#160;"/> <!-- Номер выпуска -->
-      </else>
     </choose>
   </macro>
   
@@ -480,8 +461,9 @@
       </group>
     </group>
     <text macro="year-date"/>       
-    <text macro="volume3"/> <!-- Том -->
+    <text macro="volume2"/> <!-- Том -->
   </group> 
+    <text variable="issue" prefix=", №&#160;"/> <!-- Номер выпуска -->
     <text macro="page" prefix=". – "/> <!-- Страница -->
 </else-if>
 

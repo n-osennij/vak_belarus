@@ -1,0 +1,986 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Book rdf:about="#item_219">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Москва</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Либроком</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Гринин</foaf:surname>
+                        <foaf:givenname>Л. Е.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Коротаев</foaf:surname>
+                        <foaf:givenname>А. В.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:edition>3</prism:edition>
+        <dc:date>2013</dc:date>
+        <dc:title>Социальная макроэволюция: генезис и трансформации Мир-Системы</dc:title>
+        <z:numPages>567</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_250">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Гомель</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Гомел. гос. ун-т</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>В. А. Боровая</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>В. А. Боровая</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>В. А. Боровая</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>В. А. Боровая</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2013</dc:date>
+        <dc:title>Закономерности формирования и совершенствования системы движений спортсменов (на примере метания копья)</dc:title>
+        <z:numPages>173</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_251">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Москва</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Дашков и К</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>К. В. Балдин</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>К. В. Балдин</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>К. В. Балдин</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>К. В. Балдин</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>К. В. Балдин</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <prism:edition>4</prism:edition>
+        <dc:date>2013</dc:date>
+        <dc:title>Инвестиции: системный анализ и управление</dc:title>
+        <z:numPages>287</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_257">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>учеб.-метод. пособие</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Минск</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Амалфея</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Дробышевский</foaf:surname>
+                        <foaf:givenname>Н. П.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2013</dc:date>
+        <dc:title>Ревизия и аудит</dc:title>
+        <z:numPages>415</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_258">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Минск</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Беларус. навука</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Багдановіч</foaf:surname>
+                        <foaf:givenname>М.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:volume>3</prism:volume>
+        <prism:edition>2</prism:edition>
+        <dc:date>2001</dc:date>
+        <z:numberOfVolumes>3</z:numberOfVolumes>
+        <dc:title>Поўны збор твораў</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_260">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Oxford</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Oxdord Univ. Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>L. E. Davis</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>T. Mizrahi</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <prism:volume>4</prism:volume>
+        <dc:date>2011</dc:date>
+        <z:numberOfVolumes>4</z:numberOfVolumes>
+        <z:language>en</z:language>
+        <dc:title>Encyclopedia of social work</dc:title>
+    </bib:Book>
+    <bib:Thesis rdf:about="#item_207">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Минск</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Швачкина</foaf:surname>
+                        <foaf:givenname>М. В.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2003</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>12.00.15</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <z:type>дис. ... канд. юрид. наук</z:type>
+        <dc:title>Судебное рассмотрение дел по заявлениям на нотариальные действия и отказ в их совершении</dc:title>
+        <z:numPages>221</z:numPages>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_226">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Москва</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Рос. акад. наук, Ин-т рос. истории</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Горянов</foaf:surname>
+                        <foaf:givenname>А. В.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2013</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>07.00.02</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <z:type>автореф. дис. ... канд. ист. наук</z:type>
+        <dc:title>Эволюция сельской дворянской усадьбы в конце XVIII–начале XX в.: по материалам усадеб князей Голицыных</dc:title>
+        <z:numPages>40</z:numPages>
+    </bib:Thesis>
+    <bib:BookSection rdf:about="#item_211">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>курс лекций</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>Национальная экономика Беларуси: основы стратегии развития</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Минск</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>И. М. Лемешевский</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Лемешевский</foaf:surname>
+                        <foaf:givenname>И. М</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>523–540</bib:pages>
+        <dc:date>2012</dc:date>
+        <dc:title>Экономическая безопасность Беларуси</dc:title>
+    </bib:BookSection>
+    <rdf:Description rdf:about="#item_230">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>материалы 48 науч. конф. аспирантов, магистрантов и студентов, Минск, 7–11 мая 2012 г.</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Минск</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Белорус. гос. ун-т информатики и радиоэлектроники</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Лукашевич</foaf:surname>
+                        <foaf:givenname>М. М.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>В.А. Прытков</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>В.А. Прытков</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>В.А. Прытков</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>В.А. Прытков</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>В.А. Прытков</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>12</bib:pages>
+        <dc:date>2012</dc:date>
+        <bib:presentedAt>
+            <bib:Conference>
+               <dc:title>Компьютерные системы и сети</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+        <dc:title>Текстурный анализ. Алгоритм вычисления текстурных признаков</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_231">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>энцыкл. давед.</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>Мысліцелі і асветнікі Беларусі (Х–ХІХ стагоддзі)</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Мінск</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Багадзяж</foaf:surname>
+                        <foaf:givenname>М. К.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Сачанка</foaf:surname>
+                        <foaf:givenname>Б. І.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>277</bib:pages>
+        <dc:date>1995</dc:date>
+        <dc:title>Радзівіл Альбрыхт Станіслаў</dc:title>
+    </rdf:Description>
+    <bib:BookSection rdf:about="#item_238">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>учеб. пособие</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>Информационные технологии в государственном и муниципальном управлении</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Москва</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>М. А. Абросимова</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Абросимова</foaf:surname>
+                        <foaf:givenname>М.А.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:edition>2</prism:edition>
+        <bib:pages>44-46</bib:pages>
+        <dc:date>2013</dc:date>
+        <dc:title>Направления автоматизации</dc:title>
+    </bib:BookSection>
+    <rdf:Description rdf:about="#item_242">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>18</prism:volume>
+                <dc:title>Беларус. энцыкл.</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Мінск</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Аляхновіч</foaf:surname>
+                        <foaf:givenname>М. М.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>100</bib:pages>
+        <dc:date>2004</dc:date>
+        <z:numberOfVolumes>18</z:numberOfVolumes>
+        <dc:title>Электронны мікраскоп</dc:title>
+    </rdf:Description>
+    <bib:BookSection rdf:about="#item_263">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>хрестоматия</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>2</prism:volume>
+                <dc:title>Информационное общество: экономика, власть, культура</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Новосибирск</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Новосиб. гос. техн. ун-т</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Бек</foaf:surname>
+                        <foaf:givenname>У.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Бек</foaf:surname>
+                        <foaf:givenname>У.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Салихова</foaf:surname>
+                        <foaf:givenname>Е. А.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <bib:pages>5-36</bib:pages>
+        <dc:date>2004</dc:date>
+        <z:numberOfVolumes>2</z:numberOfVolumes>
+        <dc:title>Перспектива космополитизма: социология второй эпохи модернити</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_264">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>1</prism:volume>
+                <dc:title>Избр. произведения</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Москва</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Гринцер</foaf:surname>
+                        <foaf:givenname>П. А.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>110-146</bib:pages>
+        <dc:date>2008</dc:date>
+        <z:numberOfVolumes>2</z:numberOfVolumes>
+        <dc:title>Древнеиндийский эпос</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_266">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <dc:title>Introduction to cognitive cultural studies</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Baltimore</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Crane</foaf:surname>
+                        <foaf:givenname>M. T.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zunshine</foaf:surname>
+                        <foaf:givenname>L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>103-114</bib:pages>
+        <dc:date>2010</dc:date>
+        <z:language>en</z:language>
+        <dc:title>Analogy, metaphor, and the new science</dc:title>
+    </bib:BookSection>
+    <bib:Article rdf:about="http://www.cmaj.ca/content/167/1/48.short">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>167</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Canadian Medical Association Journal</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bloomenthal</foaf:surname>
+                        <foaf:givenname>Dena</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>von Dadelszen</foaf:surname>
+                        <foaf:givenname>Peter</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liston</foaf:surname>
+                        <foaf:givenname>Robert</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Magee</foaf:surname>
+                        <foaf:givenname>Laura</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tsang</foaf:surname>
+                        <foaf:givenname>Peter</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_181"/>
+        <link:link rdf:resource="#item_180"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.cmaj.ca/content/167/1/48.short</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>48–54</bib:pages>
+        <dc:date>2002</dc:date>
+        <dcterms:dateSubmitted>2016-05-28 21:49:17</dcterms:dateSubmitted>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>The effect of factor V Leiden carriage on maternal and fetal health</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_181">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:Bloomenthal et al. - 2002 - The effect of factor V Leiden carriage on maternal.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.cmaj.ca/content/167/1/48.short</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-05-28 21:49:21</dcterms:dateSubmitted>
+        <dc:title>Bloomenthal et al. - 2002 - The effect of factor V Leiden carriage on maternal.html</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_180">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:Bloomenthal et al. - 2002 - The effect of factor V Leiden carriage on maternal.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Peter_Von_Dadelszen/publication/11244994_The_effect_of_Factor_V_Leiden_carriage_on_maternal_and_fetal_health/links/0912f510c40b9cd3ed000000.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-05-28 21:49:17</dcterms:dateSubmitted>
+        <dc:title>Bloomenthal et al. - 2002 - The effect of factor V Leiden carriage on maternal.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.bmj.com/content/bmj/297/6655/1024.full.pdf">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>297</prism:volume>
+                <prism:number>6655</prism:number>
+                <dc:title>Bmj</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Homburg</foaf:surname>
+                        <foaf:givenname>R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Armar</foaf:surname>
+                        <foaf:givenname>N. A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eshel</foaf:surname>
+                        <foaf:givenname>A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adams</foaf:surname>
+                        <foaf:givenname>J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacobs</foaf:surname>
+                        <foaf:givenname>H. S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_198"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.bmj.com/content/bmj/297/6655/1024.full.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1024–1026</bib:pages>
+        <dc:date>1988</dc:date>
+        <dcterms:dateSubmitted>2016-05-31 13:32:37</dcterms:dateSubmitted>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Influence of serum luteinising hormone concentrations on ovulation, conception, and early pregnancy loss in polycystic ovary syndrome.</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_198">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:bmj00308-0036.pdf"/>
+        <dc:title>bmj00308-0036.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_213">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:number>5</prism:number><dc:title>Нар. асвета.</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Валатоўская</foaf:surname>
+                        <foaf:givenname>Н. А.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>88-91</bib:pages>
+        <dc:date>2013</dc:date>
+        <dc:title>Традыцыйны і сучасны вясельны абрад беларусаў і ўкраінцаў: агульнае і рознае ў сямейнай абраднасці славянскіх народаў</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_233">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>208</prism:volume>
+                <prism:number>12</prism:number>
+                <dc:title>Physica Status Solidi. A.</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lind</foaf:surname>
+                        <foaf:givenname>H.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilson</foaf:surname>
+                        <foaf:givenname>J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mather</foaf:surname>
+                        <foaf:givenname>R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>2765-2771</bib:pages>
+        <dc:date>2011</dc:date>
+        <z:language>en</z:language>
+        <dc:title>Raman spectroscopy of thin-film silicon on woven polyester</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="http://annals.org/article.aspx?articleid=712677">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>130</prism:volume>
+                <prism:number>8</prism:number>
+                <dc:title>Annals of Internal Medicine</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rodeghiero</foaf:surname>
+                        <foaf:givenname>Francesco</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tosetto</foaf:surname>
+                        <foaf:givenname>Alberto</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://annals.org/article.aspx?articleid=712677</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>643–650</bib:pages>
+        <dc:date>1999</dc:date>
+        <dcterms:dateSubmitted>2016-05-28 17:53:28</dcterms:dateSubmitted>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Activated protein C resistance and factor V Leiden mutation are independent risk factors for venous thromboembolism</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_214">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>Белорус. лес. газ</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Дубаневич</foaf:surname>
+                        <foaf:givenname>Л.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>10</bib:pages>
+        <dc:date>13.02.2014</dc:date>
+        <z:language>be</z:language>
+        <dcterms:abstract>о комиссаре партиз. отряда А. Андрееве</dcterms:abstract>
+        <dc:title>Партизанский десант в Германию</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_234">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Newspaper><dc:title>Культура</dc:title></bib:Newspaper>
+        </dcterms:isPartOf>
+        <bib:pages>1, 2</bib:pages>
+        <dc:date>11.02.2014</dc:date>
+        <dc:description>паводле паведамл. прэс-службы Прэзідэнта Рэсп. Беларусь</dc:description>
+        <dcterms:abstract>Указам Кіраўніка дзяржавы А. Лукашэнкі прысуджаны пяць прэмій «За духоўнае адраджэнне»</dcterms:abstract>
+        <dc:title>«Нацыянальную культуру нельга разумець спрошчана»</dc:title>
+    </bib:Article>
+    <bib:Document rdf:about="http://www.genecards.org/cgi-bin/carddisp.pl?gene=MTHFR&amp;search=MTHFR">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>GeneCards</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.genecards.org/cgi-bin/carddisp.pl?gene=MTHFR&amp;search=MTHFR</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-05-28 20:46:13</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dc:title>MTHFR Gene</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="http://www.pravo.by">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>Нац. центр правовой информ. Респ. Беларусь</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>http://www.pravo.by</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-02-20</dcterms:dateSubmitted>
+        <dc:title>Национальный правовой Интернет-портал Республики Беларусь</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="http://belstat.gov.by/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://belstat.gov.by/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-02-20</dcterms:dateSubmitted>
+        <dc:title>Национальный статистический комитет Республики Беларусь</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="http://unbisnet.un.org">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Dag Hamarskjold Libr</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://unbisnet.un.org</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-02-15</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dc:title>UNBISnet</dc:title>
+        <z:shortTitle>UN Bibliogr. Inform. System</z:shortTitle>
+    </bib:Document>
+    <z:Collection rdf:about="#collection_9">
+        <dc:title>1. Книги</dc:title>
+        <dcterms:hasPart rdf:resource="#item_219"/>
+        <dcterms:hasPart rdf:resource="#item_250"/>
+        <dcterms:hasPart rdf:resource="#item_251"/>
+        <dcterms:hasPart rdf:resource="#item_257"/>
+        <dcterms:hasPart rdf:resource="#item_258"/>
+        <dcterms:hasPart rdf:resource="#item_260"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_10">
+        <dc:title>2. Диссертации</dc:title>
+        <dcterms:hasPart rdf:resource="#item_207"/>
+        <dcterms:hasPart rdf:resource="#item_226"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_12">
+        <dc:title>3. Раздел книги,  Док-т конференции, Энциклопедии</dc:title>
+        <dcterms:hasPart rdf:resource="#item_211"/>
+        <dcterms:hasPart rdf:resource="#item_230"/>
+        <dcterms:hasPart rdf:resource="#item_231"/>
+        <dcterms:hasPart rdf:resource="#item_238"/>
+        <dcterms:hasPart rdf:resource="#item_242"/>
+        <dcterms:hasPart rdf:resource="#item_263"/>
+        <dcterms:hasPart rdf:resource="#item_264"/>
+        <dcterms:hasPart rdf:resource="#item_266"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_14">
+        <dc:title>4. Периодика</dc:title>
+        <dcterms:hasPart rdf:resource="http://www.cmaj.ca/content/167/1/48.short"/>
+        <dcterms:hasPart rdf:resource="http://www.bmj.com/content/bmj/297/6655/1024.full.pdf"/>
+        <dcterms:hasPart rdf:resource="#item_213"/>
+        <dcterms:hasPart rdf:resource="#item_233"/>
+        <dcterms:hasPart rdf:resource="http://annals.org/article.aspx?articleid=712677"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_16">
+        <dc:title>5. Газеты</dc:title>
+        <dcterms:hasPart rdf:resource="#item_214"/>
+        <dcterms:hasPart rdf:resource="#item_234"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_18">
+        <dc:title>6. web-сайт</dc:title>
+        <dcterms:hasPart rdf:resource="http://www.genecards.org/cgi-bin/carddisp.pl?gene=MTHFR&amp;search=MTHFR"/>
+        <dcterms:hasPart rdf:resource="http://www.pravo.by"/>
+        <dcterms:hasPart rdf:resource="http://belstat.gov.by/"/>
+        <dcterms:hasPart rdf:resource="http://unbisnet.un.org"/>
+    </z:Collection>
+</rdf:RDF>
