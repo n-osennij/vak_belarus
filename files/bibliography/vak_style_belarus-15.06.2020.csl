@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0">
   <info>
     <title>VAK style (Belarus)</title>
@@ -189,10 +189,10 @@
   </macro>
 
   <macro name="author-title">
-    <names variable="author" suffix=". ">
+    <names variable="author" suffix=".&#160;">
       <!-- Добавить запятую между фамилией и инициалами автора: sort-separator=",&#160;", иначе sort-separator="&#160;" -->
       <!-- Сделать шрифт фамилий и инициалов авторов наклонным: font-style="italic", иначе font-style="normal" -->
-      <name et-al-min="2" et-al-use-first="1" suppress-min="4" initialize-with="." font-style="normal" name-as-sort-order="first" sort-separator=",&#160;"/>
+      <name et-al-min="2" et-al-use-first="1" suppress-min="4" initialize-with=".&#160;" font-style="normal" name-as-sort-order="first" sort-separator=",&#160;"/>
       <et-al term="and others"/>
     </names>
     <text variable="title"/>
@@ -200,7 +200,7 @@
   
   <macro name="author-title2"> <!-- для URL -->
     <names variable="author" suffix=". ">
-      <name et-al-min="2" et-al-use-first="1" suppress-min="4" initialize-with="." font-style="normal" name-as-sort-order="first" sort-separator=",&#160;"/>
+      <name et-al-min="2" et-al-use-first="1" suppress-min="4" initialize-with=".&#160;" font-style="normal" name-as-sort-order="first" sort-separator=",&#160;"/>
       <et-al term="and others"/>
     </names>
 	<text variable="title"/>
@@ -223,37 +223,37 @@
 
   <macro name="second-position-creators">
     <names variable="author collection-editor editor translator" delimiter="; ">
-      <label form="short" prefix=" " suffix=". " text-case="lowercase" strip-periods="true"/>
-      <name et-al-min="4" et-al-use-first="1" delimiter=", " initialize-with="."/>
+      <label form="short" prefix=" " suffix=".&#160;" text-case="lowercase" strip-periods="true"/>
+      <name et-al-min="4" et-al-use-first="1" delimiter=", " initialize-with=".&#160;"/>
     </names>
   </macro>
 
   <macro name="second-position-authors-only">
     <names variable="author">
-      <label form="short" prefix=" " suffix=". " text-case="lowercase" strip-periods="true"/>
-      <name et-al-min="4" et-al-use-first="1" delimiter=", " initialize-with="."/>
+      <label form="short" prefix=" " suffix=".&#160;" text-case="lowercase" strip-periods="true"/>
+      <name et-al-min="4" et-al-use-first="1" delimiter=", " initialize-with=".&#160;"/>
     </names>
   </macro>
 
   <macro name="second-position-authors-only2">
     <names variable="author">
-      <label form="short" prefix=" " suffix=". " text-case="lowercase" strip-periods="true"/>
-      <name et-al-min="4" et-al-use-first="1" delimiter=", " initialize-with="."/>
+      <label form="short" prefix=" " suffix=".&#160;" text-case="lowercase" strip-periods="true"/>
+      <name et-al-min="4" et-al-use-first="1" delimiter=", " initialize-with=".&#160;"/>
     </names>
       <text variable="publisher" prefix=" ; " />
   </macro>
 
   <macro name="second-position-creators-no-authors">
     <names variable="collection-editor editor translator" delimiter="; ">
-      <label form="short" prefix=" " suffix=". " text-case="lowercase" strip-periods="true"/>
-      <name et-al-min="4" et-al-use-first="1" delimiter=", " initialize-with="."/>
+      <label form="short" prefix=" " suffix=".&#160;" text-case="lowercase" strip-periods="true"/>
+      <name et-al-min="4" et-al-use-first="1" delimiter=", " initialize-with=".&#160;"/>
     </names>
   </macro>
   
   <macro name="second-position-authors-all">
     <names variable="author collection-editor editor translator" delimiter="; ">
-      <label form="short" prefix=" " suffix=". " text-case="lowercase" strip-periods="true"/>
-      <name et-al-min="4" et-al-use-first="1" delimiter=", " initialize-with="."/>
+      <label form="short" prefix=" " suffix=".&#160;" text-case="lowercase" strip-periods="true"/>
+      <name et-al-min="4" et-al-use-first="1" delimiter=", " initialize-with=".&#160;"/>
     </names>
   </macro>
 
@@ -572,8 +572,8 @@
       <key variable="issued"/> Конец комментария-->
 
       <!-- Сортировка в хрологическом порядке (по дате издания), потом по алфавиту (ФИО или название)-->
-      <!--Начало комментария <key variable="issued"/>
-      <key macro="author-title"/> Конец комментария-->
+      <!--Начало комментария <key variable="issued"/>Конец комментария-->
+      <key macro="author-title"/> 
     </sort>
 
     <layout locale="en" suffix=".">
